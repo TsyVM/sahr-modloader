@@ -66,7 +66,6 @@ src/                 Mod loader source
   mod_manager.cpp/h  Scans mods/ and builds the override table
   file_hooks.cpp/h   CreateFileW hook via VanHooks
   utils.cpp/h        Logging
-vanhooks/            VanHooks SDK (bundled)
 CMakeLists.txt
 build.bat
 ```
